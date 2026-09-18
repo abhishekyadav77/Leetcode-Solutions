@@ -4,7 +4,7 @@ class Solution {
         int sum = 0;
 
         for (int i = 0; i < k; i++) {
-            sum += nums[i];
+            sum = sum + nums[i];
         }
 
         int maxSum = sum;
