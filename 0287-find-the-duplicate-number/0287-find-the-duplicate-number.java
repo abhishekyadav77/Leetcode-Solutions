@@ -1,31 +1,25 @@
 class Solution {
     public int findDuplicate(int[] nums) {
 
-        int i = 0;
+        // this can be solved by hashset also and by using the brute force solution also
 
-        while (i < nums.length) {
+       // Phase1  Find meeting point in a array by using do while loops 
+        int slow = nums[0];
+        int fast = nums[0];
 
-            if (nums[i] != i + 1) {
+        do {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while (slow != fast);
 
-                int correct = nums[i] - 1;
+    // step 2 find the entrance of cycle
+        slow = nums[0];
 
-                if (nums[i] != nums[correct]) {
-                    swap(nums, i, correct);
-                } else {
-                    return nums[i];
-                }
-
-            } else {
-                i++;
-            }
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
         }
 
-        return -1;
-    }
-
-    static void swap(int[] arr, int first, int second) {
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
+        return slow;
     }
 }
