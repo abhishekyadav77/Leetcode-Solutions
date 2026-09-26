@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
