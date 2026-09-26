@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
