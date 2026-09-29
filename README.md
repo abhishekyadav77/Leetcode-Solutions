@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
