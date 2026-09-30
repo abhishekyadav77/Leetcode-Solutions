@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
