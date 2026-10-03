@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Database
 |  |
 | ------- |
