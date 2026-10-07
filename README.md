@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0301-remove-invalid-parentheses](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0383-ransom-note](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
