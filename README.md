@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0595-big-countries) |
