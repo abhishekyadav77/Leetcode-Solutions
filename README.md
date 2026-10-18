@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
