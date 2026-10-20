@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2235-add-two-integers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
