@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting Sort
