@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -509,4 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
