@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3665-twisted-mirror-path-count](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
