@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2469-convert-the-temperature](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
