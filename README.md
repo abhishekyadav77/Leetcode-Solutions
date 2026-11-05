@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/abhishekyadav77/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Pigeonhole Principle
 |  |
